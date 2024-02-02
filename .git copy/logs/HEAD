@@ -1,0 +1,37 @@
+0000000000000000000000000000000000000000 068ad0a7673e58606ad82685fdb402b0b34aad8f Sindre <sindrefuru@hotmail.no> 1706790293 +0100	clone: from https://dev.azure.com/pzlplumbers/ACDC%202024/_git/ACDC%202024
+068ad0a7673e58606ad82685fdb402b0b34aad8f cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706792727 +0100	pull: Fast-forward
+cd6c6ae57e67b8e7957fbade21b78ea70725998d cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706798790 +0100	checkout: moving from master to feat/highscore
+cd6c6ae57e67b8e7957fbade21b78ea70725998d 440d76cf488ec0d5e03f0325c292fb95ea9c7ec3 Sindre <sindrefuru@hotmail.no> 1706798813 +0100	commit: Highscore component init setup
+440d76cf488ec0d5e03f0325c292fb95ea9c7ec3 55a67168c8cff8c177abcbdd1bcb38158710fca0 Sindre <sindrefuru@hotmail.no> 1706802324 +0100	commit: Added dummy data to score table and button functionality + styling
+55a67168c8cff8c177abcbdd1bcb38158710fca0 2ef898725ff14b1742949fb6f5fff13ae836a771 Sindre <sindrefuru@hotmail.no> 1706802504 +0100	commit: Removed unused
+2ef898725ff14b1742949fb6f5fff13ae836a771 cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706803345 +0100	checkout: moving from feat/highscore to master
+cd6c6ae57e67b8e7957fbade21b78ea70725998d cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706803377 +0100	checkout: moving from master to feature/gpt-module
+cd6c6ae57e67b8e7957fbade21b78ea70725998d 60db39d915ae70485df727aec7c76648ad6316bc Sindre <sindrefuru@hotmail.no> 1706866673 +0100	commit: Push latest changes - not working
+60db39d915ae70485df727aec7c76648ad6316bc cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706868151 +0100	checkout: moving from feature/gpt-module to master
+cd6c6ae57e67b8e7957fbade21b78ea70725998d cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706868213 +0100	reset: moving to HEAD
+cd6c6ae57e67b8e7957fbade21b78ea70725998d 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706868217 +0100	pull: Fast-forward
+702ebdc74a19df5a6055eadd55833ce51d6feccd 60db39d915ae70485df727aec7c76648ad6316bc Sindre <sindrefuru@hotmail.no> 1706868475 +0100	checkout: moving from master to feature/gpt-module
+60db39d915ae70485df727aec7c76648ad6316bc 255bdbc71404ade84213f9cfb66a53b44c025cd5 Sindre <sindrefuru@hotmail.no> 1706868634 +0100	commit: Dependencies and other stashed featured to make it run - api does not work properly
+255bdbc71404ade84213f9cfb66a53b44c025cd5 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706868646 +0100	checkout: moving from feature/gpt-module to master
+702ebdc74a19df5a6055eadd55833ce51d6feccd 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706868711 +0100	checkout: moving from master to feature/interactive-blob
+702ebdc74a19df5a6055eadd55833ce51d6feccd 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706869828 +0100	checkout: moving from feature/interactive-blob to master
+702ebdc74a19df5a6055eadd55833ce51d6feccd 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706869867 +0100	checkout: moving from master to feature/interactive-blob
+702ebdc74a19df5a6055eadd55833ce51d6feccd 3908631b6b60c4fe7e6d7ae39be43a7c72058c3c Sindre <sindrefuru@hotmail.no> 1706876137 +0100	commit: Added interactive blob
+3908631b6b60c4fe7e6d7ae39be43a7c72058c3c 702ebdc74a19df5a6055eadd55833ce51d6feccd Sindre <sindrefuru@hotmail.no> 1706876295 +0100	checkout: moving from feature/interactive-blob to master
+702ebdc74a19df5a6055eadd55833ce51d6feccd 861d2cb756575b5e28c9ed681df4ccd2c2d87e21 Sindre <sindrefuru@hotmail.no> 1706876320 +0100	pull: Fast-forward
+861d2cb756575b5e28c9ed681df4ccd2c2d87e21 2ef898725ff14b1742949fb6f5fff13ae836a771 Sindre <sindrefuru@hotmail.no> 1706876696 +0100	checkout: moving from master to feat/highscore
+2ef898725ff14b1742949fb6f5fff13ae836a771 2ef898725ff14b1742949fb6f5fff13ae836a771 Sindre <sindrefuru@hotmail.no> 1706876758 +0100	checkout: moving from feat/highscore to feat/highscore
+2ef898725ff14b1742949fb6f5fff13ae836a771 569e30adb3b7dc4e17a6c41c59b42156fb80e9ed Sindre <sindrefuru@hotmail.no> 1706876788 +0100	pull: Merge made by the 'recursive' strategy.
+569e30adb3b7dc4e17a6c41c59b42156fb80e9ed 127f00953cf7dd2ccaa9600540a3f53873c10cc4 Sindre <sindrefuru@hotmail.no> 1706879942 +0100	commit: Added score component to game
+127f00953cf7dd2ccaa9600540a3f53873c10cc4 127f00953cf7dd2ccaa9600540a3f53873c10cc4 Sindre <sindrefuru@hotmail.no> 1706879972 +0100	checkout: moving from feat/highscore to feat/highscore
+127f00953cf7dd2ccaa9600540a3f53873c10cc4 861d2cb756575b5e28c9ed681df4ccd2c2d87e21 Sindre <sindrefuru@hotmail.no> 1706879976 +0100	checkout: moving from feat/highscore to master
+861d2cb756575b5e28c9ed681df4ccd2c2d87e21 127f00953cf7dd2ccaa9600540a3f53873c10cc4 Sindre <sindrefuru@hotmail.no> 1706880059 +0100	merge feat/highscore: Fast-forward (no commit created; -m option ignored)
+127f00953cf7dd2ccaa9600540a3f53873c10cc4 9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f Sindre <sindrefuru@hotmail.no> 1706880081 +0100	pull: Merge made by the 'recursive' strategy.
+9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f 9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f Sindre <sindrefuru@hotmail.no> 1706880478 +0100	checkout: moving from master to feat/mapmovement
+9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f 6c811d1159e3f691df1035336a49189221c49bdd Sindre <sindrefuru@hotmail.no> 1706882970 +0100	commit: added map movement
+6c811d1159e3f691df1035336a49189221c49bdd 9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f Sindre <sindrefuru@hotmail.no> 1706882980 +0100	checkout: moving from feat/mapmovement to master
+9177ffd1139ffd4ca4eabfa11f0c56a921d5c26f 6c811d1159e3f691df1035336a49189221c49bdd Sindre <sindrefuru@hotmail.no> 1706883003 +0100	merge feat/mapmovement: Fast-forward (no commit created; -m option ignored)
+6c811d1159e3f691df1035336a49189221c49bdd 6c811d1159e3f691df1035336a49189221c49bdd Sindre <sindrefuru@hotmail.no> 1706887166 +0100	checkout: moving from master to feat/background
+6c811d1159e3f691df1035336a49189221c49bdd 7c263552923139379c50a2ae18301700b5bc72b5 Sindre <sindrefuru@hotmail.no> 1706897333 +0100	commit: Changes on sprites, text and bg
+7c263552923139379c50a2ae18301700b5bc72b5 6c811d1159e3f691df1035336a49189221c49bdd Sindre <sindrefuru@hotmail.no> 1706897346 +0100	checkout: moving from feat/background to master
+6c811d1159e3f691df1035336a49189221c49bdd 7c263552923139379c50a2ae18301700b5bc72b5 Sindre <sindrefuru@hotmail.no> 1706897384 +0100	merge feat/background: Fast-forward (no commit created; -m option ignored)

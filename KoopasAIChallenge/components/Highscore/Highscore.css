@@ -1,0 +1,23 @@
+.scoreTable {
+    max-width: 500px;
+    border-radius: 10px; /* Change the radius as needed */
+    overflow: hidden; /* This makes sure the table corners are rounded */
+}
+
+.scoreTable th, .scoreTable td {
+  padding: 10px;
+}
+
+/* Add white font color in the table header */
+.scoreTable th {
+  font-weight: bold;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-container button {
+  /* Additional styles for the button if needed */
+}

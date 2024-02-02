@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 cd6c6ae57e67b8e7957fbade21b78ea70725998d Sindre <sindrefuru@hotmail.no> 1706798790 +0100	branch: Created from HEAD
+cd6c6ae57e67b8e7957fbade21b78ea70725998d 440d76cf488ec0d5e03f0325c292fb95ea9c7ec3 Sindre <sindrefuru@hotmail.no> 1706798813 +0100	commit: Highscore component init setup
+440d76cf488ec0d5e03f0325c292fb95ea9c7ec3 55a67168c8cff8c177abcbdd1bcb38158710fca0 Sindre <sindrefuru@hotmail.no> 1706802324 +0100	commit: Added dummy data to score table and button functionality + styling
+55a67168c8cff8c177abcbdd1bcb38158710fca0 2ef898725ff14b1742949fb6f5fff13ae836a771 Sindre <sindrefuru@hotmail.no> 1706802504 +0100	commit: Removed unused
+2ef898725ff14b1742949fb6f5fff13ae836a771 569e30adb3b7dc4e17a6c41c59b42156fb80e9ed Sindre <sindrefuru@hotmail.no> 1706876788 +0100	pull: Merge made by the 'recursive' strategy.
+569e30adb3b7dc4e17a6c41c59b42156fb80e9ed 127f00953cf7dd2ccaa9600540a3f53873c10cc4 Sindre <sindrefuru@hotmail.no> 1706879942 +0100	commit: Added score component to game
